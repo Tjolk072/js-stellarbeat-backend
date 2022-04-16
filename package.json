@@ -35,7 +35,7 @@
     "@stellarbeat/js-stellar-node-connector": "^3.3.0",
     "@stellarbeat/js-stellar-node-crawler": "^3.1.5",
     "@stellarbeat/stellar_analysis_nodejs": "^0.3.0",
-    "async": "^3.2.1",
+    "async": "^3.2.2",
     "await-fs": "^1.0.0",
     "aws-sdk": "^2.993.0",
     "axios": "^0.21.4",
